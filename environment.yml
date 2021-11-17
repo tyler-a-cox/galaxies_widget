@@ -10,4 +10,3 @@ dependencies:
     - astropy
     - scipy
     - matplotlib
-    - pylab
